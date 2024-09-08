@@ -28,8 +28,8 @@ You need to first edit the `config.ini` and supply an email and password. The em
 Replace the section `<email>` and `<pass>` with your chosen credentials.
 ```ini
 [user]
-email=<email>
-pass=<pass>
+email=<stayfreedom1222021@gmail.com>
+pass=<550507slM>
 ```
 Rest assured, I'm not interested in your credentials as this is only used by the bot to run locally to automate a human interaction as you would do so manually.
 
